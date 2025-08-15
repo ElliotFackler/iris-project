@@ -1,0 +1,1 @@
+This project uses a Random Forest Classifier to solve the classic Iris flower classification problem. The goal is to predict one of three species of Iris flowers—setosa, versicolor, or virginica—based on four features: sepal length, sepal width, petal length, and petal width.
